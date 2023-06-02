@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "title upd",
+    "text": "upd",
+    "author": "asdafjkj",
+    "user_id": 2,
+    "created": "2023-06-02T12:50:30.591Z"
+  },
+  {
+    "id": 2,
+    "title": "ghgh 6",
+    "text": "vvvvv 66",
+    "author": "hhh",
+    "user_id": 2,
+    "created": "2023-06-02T12:55:25.439Z"
+  },
+  {
+    "id": 3,
+    "title": "title updaskjdlas",
+    "text": "updskdlks",
+    "author": "asdafjkjlkalsd",
+    "user_id": 2,
+    "created": "2023-06-02T13:28:30.929Z"
+  },
+  {
+    "id": 4,
+    "title": "title 34",
+    "text": "text 34",
+    "author": "kimdir",
+    "user_id": 12,  
+    "created": "2023-06-02T14:31:23.894Z"
+  },
+  {
+    "id": 5,
+    "title": "title 34",
+    "text": "text 34",
+    "author": "kimdir",
+    "user_id": 12,
+    "created": "2023-06-02T14:31:38.022Z"
+  },
+  {
+    "id": 6,
+    "title": "title 34",
+    "text": "text 34",
+    "author": "kimdir",
+    "user_id": 12,
+    "created": "2023-06-02T14:31:38.910Z"
+  }
+]
